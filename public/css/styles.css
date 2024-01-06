@@ -1,4 +1,8 @@
 .grid {
   width: 400px;
   height: 600px;
+  background-image: url("../img/background.jpg");
+  position: relative;
+  font-size: 100px;
+  text-align: center;
 }
