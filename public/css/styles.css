@@ -6,3 +6,17 @@
   font-size: 100px;
   text-align: center;
 }
+
+.mrx {
+  width: 100px;
+  height: 100px;
+  background-image: url(../img/mrx.png);
+  position: absolute;
+}
+
+.platform {
+  width: 150px;
+  height: 15px;
+  background-image: url("../img/platform.png");
+  position: absolute;
+}
